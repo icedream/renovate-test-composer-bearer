@@ -1,0 +1,22 @@
+{
+    "name": "icedream/composer-bearer-test",
+    "description": "Just a test project",
+    "type": "project",
+    "license": "unlicensed",
+    "authors": [
+        {
+            "name": "Carl Kittelberger",
+            "email": "icedream@icedream.pw"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.friendsofshopware.com/"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "store.shopware.com/swaglanguagepack": "1.2.0"
+    }
+}
