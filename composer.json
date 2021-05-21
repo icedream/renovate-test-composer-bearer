@@ -1,0 +1,22 @@
+{
+    "name": "icedream/composer-bearer-test",
+    "description": "Just a test project",
+    "type": "project",
+    "license": "unlicensed",
+    "authors": [
+        {
+            "name": "Carl Kittelberger",
+            "email": "icedream@icedream.pw"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://composer-test.icedream.tech/"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "icedream/test-package-with-bearer-auth": "v0.0.1"
+    }
+}

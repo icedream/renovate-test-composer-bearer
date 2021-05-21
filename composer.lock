@@ -1,0 +1,45 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6e8c74ef70c933058369635610ba6d2b",
+    "packages": [
+        {
+            "name": "icedream/test-package-with-bearer-auth",
+            "version": "v0.0.1",
+            "source": {
+                "type": "git",
+                "url": "./packages/test",
+                "reference": "aee96e274b8aa1cddece7f82f9a7e5444fc3c85b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://composer-test.icedream.tech//dist/icedream/test-package-with-bearer-auth/icedream-test-package-with-bearer-auth-v0.0.1-03e7f0.zip",
+                "reference": "aee96e274b8aa1cddece7f82f9a7e5444fc3c85b",
+                "shasum": "8a38408e2ae01b4f54ea6f1bfa79ccdf8476923d"
+            },
+            "type": "library",
+            "license": [
+                "unlicensed"
+            ],
+            "authors": [
+                {
+                    "name": "Carl Kittelberger",
+                    "email": "icedream@icedream.pw"
+                }
+            ],
+            "time": "2021-09-23T08:26:04+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}
