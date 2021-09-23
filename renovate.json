@@ -4,6 +4,7 @@
   ],
   "hostRules": [
     {
+      "hostType": "packagist",
       "matchHost": "composer-test.icedream.tech",
       "encrypted": {
         "token": "wcFMA0KK/JznkyelAQ//Ra4n/gCJoXIlN341d5ODoj0bpbuEO69GR92IRUoOMUTt9T8TcwVs+zzhKmIoI9fNDV3gE/wMT5BZ/34VSQ/2KQj8LaU2Ae5dVTbAwXUCoZECejMPU+UIK/TBShTMWhmkB5XGRME7qTOgyDJAPOOqoOS2PiYCijQYTfGz7egRE7SLzK2n9igQ5AdiVrHgPjaX1eTHXgEq6Dmtop2b1gJivStVWmwcNf/pbBve+djg0KnMYywtL0EsjM4pMuTfkXo6e4FdqZYYNFHWkwGEjmZUzgIAm8CcZ01hOK7/woXkztReQncZpAE3v2SVWA58tPJhXvcLp/6RbEHfTn6NJFUnp496J6q/Qanb1GHJtWAQjkIpEQkaeIUXwEBQ+gX8BUYy+BAJrpxLipM+sjKAhYWyHUroEsAzHd5WYpJE05acgmGji7LW59ef+/8n5/53wYd+abVHHJydHOnaBQbPq2w+l2Nwkm4GOYEqGiTdQ2tfTwXZSxyZ5NC8aAcU8khpFBAg9VDUyX6rqAg0/JZ/8/bW4j7mmKGZGDtSa0czOKd3GkmphVfbJz3w+Qd0XjEt6G0Bv+wYnXI3rd+8S49QXPBTVBQSs2CBay6ZVxTZsAamxayvGr1uRBe++nmn2lQrkFP8iw11rz/Mjwn80blF7HgnWIvvC8g4/KMcuabzA21Ae1/SfQF0pvrbandmqBDuMc1LHQLN7MN39E9ZR5ENekiDBVOVz0LZuFiqJqYAfUbopogCv/wxFGMtXMjVgt0cePm6CMYUG7+qRda7kiAOmaOZ3Dv7t9MibPyPqigneu5sEd6erX2N7TY21kbA89mb/xxLZIbO2u+gnylCiupUbQ1L"
