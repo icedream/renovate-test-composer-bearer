@@ -17,6 +17,6 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "icedream/test-package-with-bearer-auth": "v0.0.1"
+        "icedream/test-package-with-bearer-auth": "0.0.2"
     }
 }

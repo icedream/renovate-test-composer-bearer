@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6e8c74ef70c933058369635610ba6d2b",
+    "content-hash": "76adb346a43c2b94fa2131afbe4427dd",
     "packages": [
         {
             "name": "icedream/test-package-with-bearer-auth",
-            "version": "v0.0.1",
+            "version": "v0.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/icedream/php-test-package.git",
-                "reference": "13d82ea055f8a9a684e0caaded400fad348146fe"
+                "reference": "2ae4887f2370c8cc299e1b1018e208e9b82fda73"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://composer-test.icedream.tech//dist/icedream/test-package-with-bearer-auth/icedream-test-package-with-bearer-auth-13d82ea055f8a9a684e0caaded400fad348146fe-zip-95443e.zip",
-                "reference": "13d82ea055f8a9a684e0caaded400fad348146fe",
-                "shasum": "92966db7234de819be68050e5d0c436e2f681b03"
+                "url": "https://composer-test.icedream.tech//dist/icedream/test-package-with-bearer-auth/icedream-test-package-with-bearer-auth-2ae4887f2370c8cc299e1b1018e208e9b82fda73-zip-51f329.zip",
+                "reference": "2ae4887f2370c8cc299e1b1018e208e9b82fda73",
+                "shasum": "bfbe42df37461da9ec59c55fc9b18c75eb60e14b"
             },
             "type": "library",
             "license": [
@@ -31,10 +31,10 @@
                 }
             ],
             "support": {
-                "source": "https://github.com/icedream/php-test-package/tree/v0.0.1",
+                "source": "https://github.com/icedream/php-test-package/tree/v0.0.2",
                 "issues": "https://github.com/icedream/php-test-package/issues"
             },
-            "time": "2021-09-23T09:11:28+00:00"
+            "time": "2021-09-23T09:11:37+00:00"
         }
     ],
     "packages-dev": [],
