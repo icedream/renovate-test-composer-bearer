@@ -11,14 +11,14 @@
             "version": "v0.0.1",
             "source": {
                 "type": "git",
-                "url": "./packages/test",
-                "reference": "aee96e274b8aa1cddece7f82f9a7e5444fc3c85b"
+                "url": "https://github.com/icedream/php-test-package.git",
+                "reference": "13d82ea055f8a9a684e0caaded400fad348146fe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://composer-test.icedream.tech//dist/icedream/test-package-with-bearer-auth/icedream-test-package-with-bearer-auth-v0.0.1-03e7f0.zip",
-                "reference": "aee96e274b8aa1cddece7f82f9a7e5444fc3c85b",
-                "shasum": "8a38408e2ae01b4f54ea6f1bfa79ccdf8476923d"
+                "url": "https://composer-test.icedream.tech//dist/icedream/test-package-with-bearer-auth/icedream-test-package-with-bearer-auth-13d82ea055f8a9a684e0caaded400fad348146fe-zip-95443e.zip",
+                "reference": "13d82ea055f8a9a684e0caaded400fad348146fe",
+                "shasum": "92966db7234de819be68050e5d0c436e2f681b03"
             },
             "type": "library",
             "license": [
@@ -30,7 +30,11 @@
                     "email": "icedream@icedream.pw"
                 }
             ],
-            "time": "2021-09-23T08:26:04+00:00"
+            "support": {
+                "source": "https://github.com/icedream/php-test-package/tree/v0.0.1",
+                "issues": "https://github.com/icedream/php-test-package/issues"
+            },
+            "time": "2021-09-23T09:11:28+00:00"
         }
     ],
     "packages-dev": [],
